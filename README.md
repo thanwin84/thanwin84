@@ -17,21 +17,6 @@ I love building scalable, user-focused applications, solving challenging problem
 
 ---
 
-## 💼 Experience  
-
-**Full Stack Developer**  
-(Current Role)  
-- Working on a **Digital Wallet Project**.  
-- Implementing **Custom KYC flows in the backend** for user verification.  
-- Focused on building secure, scalable, and high-performance backend systems.  
-
-**Software Engineer Intern @ Bongodev** *(Mar 2025 – May 2025)*  
-- Contributed to an **Appointment Booking System**.  
-- Built dashboard components including appointment management, slot selection, and user profile editing.  
-- Participated in code reviews, followed clean code practices, and collaborated with the team using Git/GitHub.  
-
----
-
 ## 📂 Featured Projects  
 
 ### 🔹 Career Connect – Full Stack Job Portal  
