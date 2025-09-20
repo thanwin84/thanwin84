@@ -21,7 +21,8 @@ I love building scalable, user-focused applications, solving challenging problem
 
 **Full Stack Developer**  
 (Current Role)  
-- Working on a **Digital Wallet Project** with integrations like Stripe, Mambu, and Marqeta.  
+- Working on a **Digital Wallet Project**.  
+- Implementing **Custom KYC flows in the backend** for user verification.  
 - Focused on building secure, scalable, and high-performance backend systems.  
 
 **Software Engineer Intern @ Bongodev** *(Mar 2025 – May 2025)*  
@@ -37,18 +38,18 @@ I love building scalable, user-focused applications, solving challenging problem
 - **Stack:** React, TypeScript, Node.js, MongoDB, Redis, BullMQ, Socket.IO  
 - Built a responsive job platform with **JWT authentication**, **Twilio SMS verification**, and a **custom UI**.  
 - Implemented **Redis caching** & **BullMQ for background jobs**.  
-👉 [Live Demo](#) | [GitHub Repo](#)  
+👉 [Live Demo](https://career-connect-frontend-1kvx.onrender.com/) | [GitHub Repo](https://github.com/thanwin84/career-connect)  
 
 ### 🔹 Swift Rent – Rental Application Platform  
 - **Stack:** Next.js, TypeScript, Node.js, MongoDB, React Query, Zustand  
 - Built with **secure JWT auth**, **geospatial queries**, **infinite scroll**, and **SSR via Next.js**.  
-👉 [Live Demo](#) | [GitHub Repo](#)  
+👉 [Live Demo](https://rental-gold.vercel.app/) | [GitHub Repo](https://github.com/thanwin84/rental)  
 
 ### 🔹 PandaEats – Food Ordering Web App  
 - **Stack:** React, TypeScript, Node.js, MongoDB, Stripe, Auth0  
 - Developed an intuitive food ordering app with **real-time order updates**.  
 - Integrated **Auth0 for login** and **Stripe for payments**.  
-👉 [Live Demo](#) | [GitHub Repo](#)  
+👉 [Live Demo](https://mern-pandaeats-frontend.onrender.com/) | [GitHub Repo](https://github.com/thanwin84/pandaeats-frontend)  
 
 ### 🔹 Appointment Booking System  
 - **Stack:** React, TypeScript, Node.js, Express, MongoDB, React Query  
